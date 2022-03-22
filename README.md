@@ -83,7 +83,7 @@ The project author, Ferdinand Beaman, can be reached through email at [Ferdinand
 ├── images
 ├── README.md
 ├── CONTRIBUTING.md
-├── LISCENCE.md
+├── LICENCE.md
 ├── What_Movie_to_Make.pdf
 ├── Phase_1_Project_Ferdinand_Beaman.ipynb
 └── student-Copy4 (code for the graphs are here)
