@@ -1,6 +1,6 @@
 
 
-# Microsoft Movie Business Project
+# Microsoft Movie Maker Project
 
 
 **Author**: [Ferdinand Beaman](mailto:Ferdinand.Beaman@gmail.com)
